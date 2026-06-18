@@ -78,47 +78,23 @@ I use AI as a development multiplier, not a replacement for understanding the co
 
 </div>
 
-## Build Style
+## Recent Public Repositories
 
-| Stage | How I Work |
-| --- | --- |
-| Plan | Keep the idea clear, choose the smallest useful path, avoid overbuilding |
-| Build | Move fast with TypeScript, React, Next.js, APIs, and AI-assisted iteration |
-| Review | Check edge cases, simplify confusing code, keep the UX polished |
-| Ship | Prefer working products, clean deploys, and code that can keep growing |
+<!-- RECENT-REPOS:START -->
+<div align="center">
 
-## Current Focus
+<a href="https://github.com/subhoxx69/subhoxx69">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhoxx69&repo=subhoxx69&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=6366F1" alt="subhoxx69 repository card" />
+</a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img width="22" src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/rocket.svg" alt="Rocket icon" />
-      <strong>Shipping Products</strong>
-      <br />
-      Building web apps and business tools that feel fast, practical, and reliable.
-    </td>
-    <td width="50%" valign="top">
-      <img width="22" src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/sparkles.svg" alt="Sparkles icon" />
-      <strong>Polished Interfaces</strong>
-      <br />
-      Improving layouts, mobile experience, UI details, and user-facing quality.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img width="22" src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/code.svg" alt="Code icon" />
-      <strong>Clean Codebases</strong>
-      <br />
-      Keeping code simple, readable, and easier to extend over time.
-    </td>
-    <td width="50%" valign="top">
-      <img width="22" src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/brain.svg" alt="Brain icon" />
-      <strong>AI Engineering</strong>
-      <br />
-      Combining AI speed with human judgment, testing, and architecture discipline.
-    </td>
-  </tr>
-</table>
+<br />
+
+<a href="https://github.com/subhoxx69?tab=repositories&type=source&sort=updated">
+  <img src="https://img.shields.io/badge/View%20all%20public%20repos-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="View all public repositories" />
+</a>
+
+</div>
+<!-- RECENT-REPOS:END -->
 
 ## GitHub Activity
 
