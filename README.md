@@ -20,34 +20,6 @@
 
 ---
 
-## Quick Snapshot
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img width="28" src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/device-desktop-code.svg" alt="Code icon" />
-      <br />
-      <strong>Frontend</strong>
-      <br />
-      Responsive UI, clean UX, dashboards, product pages
-    </td>
-    <td width="33%" align="center">
-      <img width="28" src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/server.svg" alt="Server icon" />
-      <br />
-      <strong>Backend</strong>
-      <br />
-      APIs, auth flows, databases, real-time features
-    </td>
-    <td width="33%" align="center">
-      <img width="28" src="https://raw.githubusercontent.com/tabler/tabler-icons/main/icons/outline/robot.svg" alt="AI icon" />
-      <br />
-      <strong>AI Workflow</strong>
-      <br />
-      Faster iteration with careful review and clean shipping
-    </td>
-  </tr>
-</table>
-
 ## AI I Use
 
 <div align="center">
