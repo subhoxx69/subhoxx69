@@ -59,17 +59,6 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="25%" align="center"><strong>Codex</strong><br />Implementation, refactors, debugging</td>
-    <td width="25%" align="center"><strong>Claude</strong><br />Architecture, reviews, tradeoffs</td>
-    <td width="25%" align="center"><strong>Qwen</strong><br />Reasoning, alternatives, exploration</td>
-    <td width="25%" align="center"><strong>Kimi</strong><br />Long-context reading and research</td>
-  </tr>
-</table>
-
-I use AI as a development multiplier, not a replacement for understanding the code. The workflow stays practical: prototype fast, review carefully, test the behavior, and ship maintainable work.
-
 ## Tech Stack
 
 <div align="center">
@@ -77,24 +66,6 @@ I use AI as a development multiplier, not a replacement for understanding the co
 <img src="https://skillicons.dev/icons?i=ts,js,react,next,nodejs,html,css,tailwind,cs,firebase,git,github,vscode" alt="TypeScript, JavaScript, React, Next.js, Node.js, HTML, CSS, Tailwind CSS, C#, Firebase, Git, GitHub, VS Code" />
 
 </div>
-
-## Recent Public Repositories
-
-<!-- RECENT-REPOS:START -->
-<div align="center">
-
-<a href="https://github.com/subhoxx69/subhoxx69">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhoxx69&repo=subhoxx69&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8&icon_color=6366F1" alt="subhoxx69 repository card" />
-</a>
-
-<br />
-
-<a href="https://github.com/subhoxx69?tab=repositories&type=source&sort=updated">
-  <img src="https://img.shields.io/badge/View%20all%20public%20repos-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="View all public repositories" />
-</a>
-
-</div>
-<!-- RECENT-REPOS:END -->
 
 ## GitHub Activity
 
