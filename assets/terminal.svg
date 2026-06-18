@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
+  <title id="title">Animated hacker terminal</title>
+  <desc id="desc">A green-on-black animated terminal with matrix rain, scan lines, and command output.</desc>
+  <defs>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020403" />
+      <stop offset="0.52" stop-color="#07120d" />
+      <stop offset="1" stop-color="#020403" />
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00ff9c" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#00ff9c" stop-opacity="0.22" />
+      <stop offset="1" stop-color="#00ff9c" stop-opacity="0" />
+    </linearGradient>
+    <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur stdDeviation="2.4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <clipPath id="clip">
+      <rect x="24" y="24" width="952" height="262" rx="16" />
+    </clipPath>
+    <style>
+      .bg { fill: url(#screen); stroke: #00ff9c; stroke-width: 1.5; }
+      .bar { fill: #07120d; stroke: #103d2e; stroke-width: 1; }
+      .dot-red { fill: #ff5f56; }
+      .dot-yellow { fill: #ffbd2e; }
+      .dot-green { fill: #27c93f; }
+      .txt { font-family: Consolas, Monaco, 'Courier New', monospace; font-size: 18px; fill: #a7f3d0; }
+      .small { font-size: 14px; fill: #4ade80; opacity: 0.85; }
+      .prompt { fill: #00ff9c; font-weight: 700; filter: url(#glow); }
+      .dim { fill: #22c55e; opacity: 0.68; }
+      .matrix { font-family: Consolas, Monaco, 'Courier New', monospace; font-size: 15px; fill: #00ff9c; opacity: 0.25; }
+      .cursor { fill: #00ff9c; filter: url(#glow); }
+      .scanline { fill: url(#scan); opacity: 0.55; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="310" rx="20" fill="#020403" />
+  <rect x="24" y="24" width="952" height="262" rx="16" class="bg" />
+  <rect x="24" y="24" width="952" height="38" rx="16" class="bar" />
+  <circle cx="50" cy="43" r="6" class="dot-red" />
+  <circle cx="72" cy="43" r="6" class="dot-yellow" />
+  <circle cx="94" cy="43" r="6" class="dot-green" />
+  <text x="124" y="49" class="small">subhoxx@github: ~/profile</text>
+
+  <g clip-path="url(#clip)">
+    <g>
+      <text class="matrix" x="760" y="-90">01001010110101100101</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -60" to="0 390" dur="5.8s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0.8">
+      <text class="matrix" x="820" y="-160">10110100101101001011</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -120" to="0 410" dur="7.2s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0.62">
+      <text class="matrix" x="900" y="-70">01100101101001011010</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -40" to="0 360" dur="4.9s" repeatCount="indefinite" />
+    </g>
+    <g opacity="0.4">
+      <text class="matrix" x="690" y="-130">11010010110100101101</text>
+      <animateTransform attributeName="transform" type="translate" from="0 -80" to="0 380" dur="6.5s" repeatCount="indefinite" />
+    </g>
+
+    <rect x="24" y="62" width="952" height="28" class="scanline">
+      <animate attributeName="y" from="62" to="278" dur="3.6s" repeatCount="indefinite" />
+    </rect>
+
+    <text class="txt" x="54" y="98"><tspan class="prompt">$</tspan> whoami</text>
+    <text class="txt" x="54" y="128">subhoxx</text>
+    <text class="txt" x="54" y="164"><tspan class="prompt">$</tspan> init --stack full-stack --ai codex,claude,qwen,kimi</text>
+    <text class="txt" x="54" y="194"><tspan class="dim">status:</tspan> online | <tspan class="dim">location:</tspan> Dusseldorf, Germany | <tspan class="dim">mode:</tspan> hacker</text>
+    <text class="txt" x="54" y="230"><tspan class="prompt">$</tspan> deploy --clean --fast</text>
+    <text class="txt" x="54" y="260">build complete. signal locked.</text>
+    <rect x="345" y="245" width="10" height="20" class="cursor">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
