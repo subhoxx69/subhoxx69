@@ -28,6 +28,10 @@
 <img height="44" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/perplexity.webp" alt="Perplexity" title="Perplexity" />
 &nbsp;&nbsp;
 <img height="44" src="https://static.vecteezy.com/system/resources/previews/055/687/065/non_2x/gemini-google-icon-symbol-logo-free-png.png" alt="Gemini" title="Gemini" />
+&nbsp;&nbsp;
+<img height="44" src="https://preview.redd.it/been-using-only-claude-in-antigravity-is-gemini-actually-v0-856wsvxmp20h1.png?auto=webp&s=bc5edb74f2be41958ba14471e903b2041a8fe384" alt="Antigravity" title="Antigravity" />
+&nbsp;&nbsp;
+<img height="44" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Cursor_logo.png" alt="Cursor" title="Cursor" />
 
 </div>
 
