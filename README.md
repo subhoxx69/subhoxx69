@@ -2,25 +2,16 @@
 
 # Hi, I'm subhoxx
 
-**Full-stack developer building clean web apps, polished interfaces, and AI-assisted workflows.**
-
 <a href="https://github.com/subhoxx69">
   <img src="https://komarev.com/ghpvc/?username=subhoxx69&style=for-the-badge&color=2563eb" alt="Profile views" />
 </a>
 <a href="https://github.com/subhoxx69?tab=followers">
   <img src="https://img.shields.io/github/followers/subhoxx69?style=for-the-badge&label=Followers&color=2563eb" alt="GitHub followers" />
 </a>
-<img src="https://img.shields.io/badge/D%C3%BCsseldorf-Germany-111827?style=for-the-badge" alt="Dusseldorf, Germany" />
 
 </div>
 
 ---
-
-## About
-
-- Fall in love with coding.
-- I build responsive web apps, product interfaces, dashboards, and practical business tools.
-- I like TypeScript-first development, clean UI, simple architecture, and maintainable code.
 
 ## AI I Use
 
